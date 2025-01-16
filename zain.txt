@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ihello world
 
 tags
+=======
+hello world
+>>>>>>> f70f685 (Create zain.txt)
